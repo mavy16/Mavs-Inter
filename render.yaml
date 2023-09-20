@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: interstellar
+    name: Mavs-Space
     env: docker
     plan: free
